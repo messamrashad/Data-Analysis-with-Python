@@ -1,2 +1,6 @@
 # Data-Analysis-with-Python
-The Analysis of many Datasets using Python, Descriptive/Inferential Statistics and Jupyter notebook
+
+This repository contains my data analysis projects using Python. All source code can be found here.
+I made all my projects in Jupyter notebooks.
+
+- project 1 
