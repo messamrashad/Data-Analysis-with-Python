@@ -5,3 +5,5 @@ This repository contains my data analysis projects using Python. All source code
 ##### All the projects have been done into Jupyter Notebooks. #####
 
 - [Bike_Share_Analysis](https://github.com/messamrashad/Data-Analysis-with-Python/blob/780f91cdd05e0520ceacb5addcd03249bebf228c/Bike_Share_Analysis.ipynb)
+
+- [Investigate_TMDB_Movie_Dataset](https://github.com/messamrashad/Data-Analysis-with-Python/blob/master/Investigate_TMDB_Movie_Dataset.ipynb)
